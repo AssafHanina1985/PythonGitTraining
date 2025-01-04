@@ -1,3 +1,0 @@
-# PythonGitTraining
-
-my first push
